@@ -31,6 +31,7 @@
 **CDR Report Analyzer** is a fully browser-based React + Vite application for law enforcement investigators. It allows them to:
 
 - Upload Excel/CSV CDR files
+- Demo file to be to perform operation-https://res.cloudinary.com/portfoliowebsite/raw/upload/v1794848445/JIO_NEW_CDR_for_demo_nwoyqx.xlsx
 - Inspect the raw records in a sheet view
 - Run predefined analytical queries (e.g. frequent contacts, IMEI tracking, location patterns)
 - Export filtered results to Excel
